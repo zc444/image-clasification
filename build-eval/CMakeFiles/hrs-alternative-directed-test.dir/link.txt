@@ -1,0 +1,1 @@
+/opt/rh/devtoolset-6/root/usr/bin/c++    -std=c++11 -pthread -O3 -g  -rdynamic CMakeFiles/hrs-alternative-directed-test.dir/test/hrs-alternative-directed-test.cc.o  -o hrs-alternative-directed-test -lm libpa5-sys.a -lpthread 

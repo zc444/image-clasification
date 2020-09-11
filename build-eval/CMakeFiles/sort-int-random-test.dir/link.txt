@@ -1,0 +1,1 @@
+/opt/rh/devtoolset-6/root/usr/bin/c++    -std=c++11 -pthread -O3 -g  -rdynamic CMakeFiles/sort-int-random-test.dir/test/sort-int-random-test.cc.o  -o sort-int-random-test -lm libpa5-sys.a -lpthread 

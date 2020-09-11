@@ -1,0 +1,24 @@
+sort-int-directed-test 1 0.00886512
+sort-int-random-test 1 0.00871897
+vector-int-directed-test 1 0.011595
+vector-int-random-test 1 0.012419
+image-directed-test 1 0.0150971
+image-random-test 1 0.020268
+sort-image-directed-test 1 0.0148158
+sort-image-random-test 1 0.040345
+vector-image-directed-test 1 0.021323
+vector-image-random-test 1 0.0477011
+tree-int-directed-test 1 0.0131738
+tree-int-random-test 1 0.0451279
+tree-image-directed-test 1 0.022712
+tree-image-random-test 1 0.216298
+table-int-directed-test 1 0.0122728
+table-int-random-test 1 0.0182631
+table-image-directed-test 1 0.0172441
+table-image-random-test 1 0.150584
+hrs-linear-search-directed-test 1 2.28904
+hrs-binary-search-directed-test 1 1.83157
+hrs-tree-search-directed-test 1 0.953331
+hrs-table-search-directed-test 1 0.435118
+hrs-alternative-directed-test 1 0.0530322
+---

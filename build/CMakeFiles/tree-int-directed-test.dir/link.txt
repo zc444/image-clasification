@@ -1,0 +1,1 @@
+/opt/rh/devtoolset-6/root/usr/bin/c++    -std=c++11 -pthread -O0 -g --coverage -Wno-unused-parameter  -rdynamic CMakeFiles/tree-int-directed-test.dir/test/tree-int-directed-test.cc.o  -o tree-int-directed-test -lm libpa5-sys.a -lpthread 
